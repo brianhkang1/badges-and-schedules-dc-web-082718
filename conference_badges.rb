@@ -4,6 +4,10 @@ def badge_maker(name)
   end 
 end
 
+def batch_badge_creator(name)
+
+end
+
 def assign_rooms(people)
   room = 1 
   people.each do |name|
