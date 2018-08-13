@@ -5,6 +5,7 @@ end
 def batch_badge_creator(name)
   people.each do |name|
     puts "Hello, my name is #{name}."
+  end
 end
 
 def assign_rooms(people)
